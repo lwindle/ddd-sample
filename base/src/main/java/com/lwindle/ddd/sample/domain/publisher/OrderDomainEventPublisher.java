@@ -1,6 +1,6 @@
 package com.lwindle.ddd.sample.domain.publisher;
 
-import com.lwindle.ddd.sample.domain.DomainEventBus;
+import com.lwindle.ddd.sample.other.DomainEventBus;
 import com.lwindle.ddd.sample.domain.entity.Order;
 import org.springframework.beans.factory.annotation.Autowired;
 

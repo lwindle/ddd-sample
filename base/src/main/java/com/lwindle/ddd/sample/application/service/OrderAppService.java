@@ -42,7 +42,7 @@ public class OrderAppService {
 
         //
         //5.调取库存服务接口
-        stockDomainService.decrease();
+        stockDomainService.decrease(order);
         //
         //6.短信事件
         orderDomainEventPublisher.publish(order);

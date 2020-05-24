@@ -1,4 +1,4 @@
-package com.lwindle.ddd.sample.application.service.bo;
+package com.lwindle.ddd.sample.domain.repository.dao;
 
 /**
  * Copyright: Copyright (c) 2019 lwindle
@@ -6,8 +6,8 @@ package com.lwindle.ddd.sample.application.service.bo;
  * @author lwindle
  * @description:
  * @version: V1.0.0
- * @date 2020-05-24 11:24
+ * @date 2020-05-24 12:30
  */
-public class OrderReqBO {
+public interface OrderDao {
 
 }

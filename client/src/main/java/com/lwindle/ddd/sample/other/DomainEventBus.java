@@ -1,4 +1,4 @@
-package com.lwindle.ddd.sample.domain;
+package com.lwindle.ddd.sample.other;
 
 /**
  * Copyright: Copyright (c) 2019 lwindle
